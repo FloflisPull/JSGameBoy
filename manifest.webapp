@@ -1,5 +1,5 @@
 {
-  "name": "GAMEBOY",
+  "name": "JSGameBoy",
   "description": "GameBoy Online GAMEBOY Emulator",
   "launch_path": "/mobile.html",
   "fullscreen": true,
