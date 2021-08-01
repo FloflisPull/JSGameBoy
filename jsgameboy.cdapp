@@ -1,0 +1,11 @@
+{
+    "name": "GAMEBOY",
+    "version": "1.0",
+    "description": "GameBoy Online GAMEBOY Emulator",
+    "author": "floflispull",
+    "url": "http://floflispull.github.io/JSGameBoy/iindex.xhtml",
+    "icon": "http://floflispull.github.io/JSGameBoy/images/128.png",
+    "permissions" : "true",
+    "width": "400",
+    "height": "340"
+}
