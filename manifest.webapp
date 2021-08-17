@@ -6,5 +6,12 @@
   "icons": {
     "128": "/images/128.png"
   },
-  "orientation": ["portrait-primary"]
+  "orientation": ["portrait-primary"],
+  "version": "1.0",
+  "author": "floflispull",
+  "url": "http://floflispull.github.io/JSGameBoy/index.xhtml",
+  "icon": "http://floflispull.github.io/JSGameBoy/images/128.png",
+  "permissions" : "true",
+  "width": "400",
+  "height": "340"
 }
